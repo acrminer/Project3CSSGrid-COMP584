@@ -217,6 +217,7 @@ Mobile is the default layout defined above */
 		grid-row: 11 / 12;
 	}
 	*/
+}
 
 /* Desktop screen Sizes */
 @media only screen and (min-width: 768px) {
